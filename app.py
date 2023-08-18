@@ -23,5 +23,15 @@ def multiplicar(term1=10,term2=20):
     result=term1*term2
     return f'<h1>El resultado (por defecto) de la funcion multiplicar es: {result}</h1>'
 
+    return '<h1>Hello, World editado desde Vscode in branch Rodo!</h1>'
+
+@app.route('/suma')
+def suma(term1=10, term2=20):
+    return f'<h1>f{term1 + term2}<h1>'
+
+@app.route('/multi')
+def multiplicacion(term1=10, term2=20):
+    return f'<h1>f{term1 * term2}<h1>'
+
 if __name__ == '__main__':
     app.run()
