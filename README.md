@@ -4,7 +4,7 @@
 - Ronaldo Flores
 - Rodo Vilcarromero
 
-## Actividad 1
+## Actividad 1 Y Actividad 2 en el siguiente enlace
 
-### Branch Ronaldo
-![image](https://github.com/ronaldoFlores3552/git-ingsoft-ronaldo/assets/85258014/dae3e5fc-514f-4816-b015-e68617831d1f)
+https://docs.google.com/document/d/1M-P2PWn0mGLT22SrIE9d9gFlJXveG-Psp90IGcY9E1w/edit
+
